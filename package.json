@@ -1,0 +1,24 @@
+{
+  
+  "dependencies": {
+    "http-server": "^14.1.0"
+  },
+  "name": "pruebascss",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -p 8436"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasvss/Pagina-personal-de-prueba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasvss/Pagina-personal-de-prueba/issues"
+  },
+  "homepage": "https://github.com/nicolasvss/Pagina-personal-de-prueba#readme",
+  "description": ""
+}
